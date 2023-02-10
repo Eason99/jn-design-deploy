@@ -1,0 +1,1 @@
+import{o as t,c as e,b as a}from"./app.d4eaa6dc.js";const r='{"title":"","description":"","frontmatter":"title 设计价值观","relativePath":"titlePages/design-values.md","lastUpdated":1675924819061}',l={},d=a("p",null,"设计价值观",-1);l.render=function(a,r,l,i,n,s){return t(),e("div",null,[d])};export default l;export{r as __pageData};
