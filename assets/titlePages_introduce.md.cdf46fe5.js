@@ -1,0 +1,1 @@
+import{o as t,c as e,b as a}from"./app.d4eaa6dc.js";const r='{"title":"","description":"","frontmatter":"title 介绍","relativePath":"titlePages/introduce.md","lastUpdated":1675924814569}',d={},i=a("p",null,"介绍",-1);d.render=function(a,r,d,l,n,o){return t(),e("div",null,[i])};export default d;export{r as __pageData};

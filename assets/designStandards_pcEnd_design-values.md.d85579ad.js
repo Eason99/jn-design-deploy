@@ -1,0 +1,1 @@
+import{o as e,c as t}from"./app.d4eaa6dc.js";const a='{"title":"","description":"","frontmatter":{},"relativePath":"example/pcEnd/design-values.md","lastUpdated":1675911376835}',r={};r.render=function(a,r,d,n,o,p){return e(),t("div")};export default r;export{a as __pageData};
